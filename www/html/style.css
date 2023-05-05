@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+h2 {
+    color: deeppink;
+    font-family: cursive;
+    font-size: 200%;
+}
+p {
+    color: red;
+    font-family: courier;
+    font-size: 100%;
+}
